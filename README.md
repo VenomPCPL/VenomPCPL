@@ -78,7 +78,7 @@ Osoby, z którymi współpracuję od długiego czasu
 #### Ta sekcja zawiera moje osobiste zdanie na różne tematy. Czytasz na własną odpowiedzialność.
 
 - Gdzie jest _Bug_, a no ni ma?
-- Arch Linux + KDE ❤️
+- Arch Linux + KDE = ❤️
 - Większego gówna niż Ubuntu nie widziałem
 - Cała firma "🍏" to syf
 - Pamiętajcie: \*\*\*\*\* \*\*\*
