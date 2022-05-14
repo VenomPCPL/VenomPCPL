@@ -1,6 +1,6 @@
 # O mnie
 
-Hej! Nazywam się Patryk i mam _tylko_ 17 lat. Moje zainteresowania to: Komputery i programowanie (kto by się spodziewał). Niedawno zacząłem się również interesować elektroniką / elektryką / energetyką ;)
+Hej! Nazywam się Patryk i mam _tylko_ 18 lat. Moje zainteresowania to: Komputery i programowanie (kto by się spodziewał). Niedawno zacząłem się również interesować elektroniką / elektryką / energetyką ;)
 
 Jestem osobą, która lubi pracować w grupie. Sporo przeklinam. Ciągle chciałbym uczyć się nowych rzeczy, nie lubię stać w miejscu. Jestem beznadziejny z anglika :/ (przynajmniej na ten moment, ale jest coraz lepiej!)
 
@@ -20,15 +20,15 @@ Może teraz trochę o mnie i językach programowania / technologiach / itp. któ
 - Flutter
 - VueJS
 - HTML, CSS (Wypisałem tak dla zasady :v)
-- RabbitMQ
 - [NATS](https://nats.io/)
+- SvelteJS
 
-Wszystko z listy znam w większym lub mniejszym stopniu. Nie chcę oceniać moich umiejętności, bo kim jestem, by to robić :)
+Wszystko z listy znam w większym lub mniejszym stopniu. Nie chcę oceniać moich umiejętności, bo kim jestem, by to robić :v
 
-Teraz trochę o technologiach, które znam, ale mniej lubię (z różnych względów):
+Teraz trochę o technologiach za którymi niezbyt przepadam (z różnych względów):
 - MySQL / Ogólnie SQL
 - MongoDB
-- React (jsx jest **dla mnie** naprawdę beznadziejny)
+- React (jsx jest **dla mnie** naprawdę... ughhh...)
 
 Listy nie są pełne, pisałem to, co mi wpadło do głowy. Będą one na bieżąco aktualizowane.
 
@@ -38,7 +38,7 @@ Listy nie są pełne, pisałem to, co mi wpadło do głowy. Będą one na bież�
 
 Rozwijany: 2018 - teraz
 
-~~Infinity~~ BOOMfinity to bot, którego jestem programistą (+ jednym z "głównych" właścicieli). Posiada wiele komend z różnych kategorii, autorski panel, automoderatora itd.
+BOOMfinity to bot, którego jestem programistą (+ jednym z "głównych" właścicieli). Posiada wiele komend z różnych kategorii, autorski panel, automoderatora itd.
 
 [Strona](https://boomfinity.xyz/) | [Discord](https://boomfinity.xyz/server)
 
@@ -48,13 +48,13 @@ Rozwijany: 2019 - teraz
 
 Lista serwerów i botów (Discord), a w przyszłości też innych rzeczy. Aktualnie pracujemy nad nową wersją, do której link będzie poniżej.
 
-[Strona](https://dlist.top/) | [Wersja BETA](https://beta.dlist.top) | [Discord](https://discord.gg/22t94nN)
+[Strona](https://dlist.top/) | [Discord](https://discord.gg/22t94nN)
 
 ##### 3. GoThink
 
 Rozwijany: 2021 - teraz
 
-CLI pozwalające tworzyć oraz wgrywać kopie zapasowe bazy [RethinkDB](https://rethinkdb.com).
+CLI pozwalające tworzyć oraz wgrywać kopie zapasowe bazy [RethinkDB](https://rethinkdb.com). Skupia się na prędkości i jak najmniejszym zużyciu zasobów (czego nie można powiedzieć o oficjalnych programach napisanych w pythonie).
 
 [Repozytorium](https://github.com/BOOMfinity-Developers/GoThink)
 
@@ -65,7 +65,7 @@ Organizacja w której wraz z ekipą wrzucamy np. forki bibliotek lub własne (je
 
 ##### 2. [DList.top (DBLista)](https://github.com/DBLista)
 
-_idk co tu dać_ Tworzymy listę która była w projektach :V
+_idk co tu dać_ Tworzymy listę która była w projektach :P
 
 # Ekipa
 Osoby, z którymi współpracuję od długiego czasu
@@ -74,30 +74,29 @@ Osoby, z którymi współpracuję od długiego czasu
 
 [MrBoombastic](https://github.com/MrBoombastic) - MrBoombastic#2137
 
-[Ribxne](https://github.com/ribxne) - ribxne#4856 (**Ona** jest wsm głównie od robienia kawy i wyzywania unxa od pedałów)
-
-
 ## ..., nie mam pomysłu na tytuł :(
 #### Ta sekcja zawiera moje osobiste zdanie na różne tematy. Czytasz na własną odpowiedzialność.
 
-- Bóg kurwa nie istnieje ok?
-- ArchLinux i KDE to najlepsze połącznie, Windows może sie schować
-- Ubuntu nie powinno istnieć, spalić
-- Cała firma "🍏" to syf (no może jedyne co mają dobre to optymalizacja, ale jak sie utrzymuje tylko 6 urządzeń to nie ma z tym problemu :))
+- Gdzie jest _Bug_, a no ni ma?
+- Arch Linux + KDE ❤️
+- Większego gówna niż Ubuntu nie widziałem
+- Cała firma "🍏" to syf
 - Pamiętajcie: \*\*\*\*\* \*\*\*
 - ❤ factorio i wszystkie tego typu gry | 💢 fortnite i cały inny syf (poza wyjątkami)
-- Ogólnie, wszystko od Jetbrains jest najlepsze
+- Ogólnie, wszystko od JetBrains jest najlepsze
 - Discord jest jednocześnie najlepszą i najgorszą platformą, jaką kiedykolwiek widziałem (dla developerów jest chujowy, a support to największe gówno jakie widziałem)
 - Support Discorda musi sobie kupić większy pakiet słówek / szablonów bo ewidentnie im się kończą
 - Jebać TeamSpeaka. Jedyne co jest na nim dobre to system uprawnień, którego na dc mi brakuje.
-- Python nie istnieje (oraz nic pythonopodobnego), wolę "tradycyjne" języki programowania. Python nadaje się do AI i np. przetwarzania obrazów
+- Python **dla mnie** nie istnieje (jak również nic pythonopodobnego). Osobiście wolę "tradycyjne" języki programowania.
 - GO to cudowny język
-- Rust jest trudny, ale zajebisty (kiedyś się go naucze). Mógłby zastąpić c/c++
-- JavaScript jest jednocześnie gównem (optymalizacja, pułapki na programistów bla bla bla, każdy kto pisał to wie) i zajebisty (m.in prostota)
-- W C oraz C++ piszą tylko masochiści (tak samo inne pojebane języki np. Clojure)
+- Rust jest trudny, ale zajebisty (kiedyś się go naucze). Mógłby zastąpić c/c++ (czego szczerze mu życzę)
+- JavaScript jest jednocześnie zajebisty i zjebany. Każdy kto w nim pisał zrozumie, a jak nie.... to ma coś nie tak z głową.
+- W C, C++ i innych pojebanych językach piszą tylko pojebani ludzie
 - ChromeOS jest spoko
-
-**PRZYPOMINAM, ŻE TO MOJE ZDANIE. JAK CI COŚ NIE PASUJE TO TRUDNO**
+- I jeszcze raz: \*\*\*\*\* \*\*\*
+- Putin ty szmato
+- [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
+- [![Russian Warship Go Fuck Yourself](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/RussianWarship.svg)](https://stand-with-ukraine.pp.ua)
 
 _jeśli coś mi się przypomni lub będzie coś nowego to dopiszę_
 
@@ -107,5 +106,3 @@ _Współczuję wszystkim, którzy to czytali_
 ![Language Statistics](https://github-readme-stats.vercel.app/api/top-langs/?username=VenomPCPL)
 
 _Uprzedzając pytania: Tak, statystyki są dodane dla jaj bo aktualnie nie mają co wyświetlać realnego :V_
-
-Zawsze byłem chujowy z polskiego, więc jeśli coś jest źle napisane to sorka
