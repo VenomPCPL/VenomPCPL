@@ -1,12 +1,13 @@
+[![Email](https://badgen.net/badge/Email/venompcpl%40gmail.com/orange)]()
+[![Discord](https://badgen.net/badge/Discord/VenomPCPL%239797/orange)]()
+
 # O mnie
 
 Hej! Nazywam się Patryk i mam _tylko_ 18 lat. Moje zainteresowania to: Komputery i programowanie (kto by się spodziewał). Niedawno zacząłem się również interesować elektroniką / elektryką / energetyką ;)
 
 Jestem osobą, która lubi pracować w grupie. Sporo przeklinam. Ciągle chciałbym uczyć się nowych rzeczy, nie lubię stać w miejscu. Jestem beznadziejny z anglika :/ (przynajmniej na ten moment, ale jest coraz lepiej!)
 
-Jeśli chciałbyś się ze mną skontaktować to w tej chwili jedyna szybka droga to Discord: VenomPCPL#9797
-
-Dlaczego taki nick? Przecież to takie ble używać PCPL. Cóż, zostało ze starych czasów. Możliwe, że kiedyś nastąpi zmiana, ale w tej chwili nie planuje.
+Jeśli chciałbyś się ze mną skontaktować to w tej chwili jedyna szybka droga to Discord: VenomPCPL#9797.
 
 # Umiejętności
 Jeśli chodzi o wybór między backendem a frontendem to jednak wolę raczej backend, ale w froncie też coś potrafię zrobić i cały czas się uczę :D
@@ -22,11 +23,12 @@ Może teraz trochę o mnie i językach programowania / technologiach / itp. któ
 - HTML, CSS (Wypisałem tak dla zasady :v)
 - [NATS](https://nats.io/)
 - SvelteJS
+- PostgreSQL
 
 Wszystko z listy znam w większym lub mniejszym stopniu. Nie chcę oceniać moich umiejętności, bo kim jestem, by to robić :v
 
 Teraz trochę o technologiach za którymi niezbyt przepadam (z różnych względów):
-- MySQL / Ogólnie SQL
+- MySQL
 - MongoDB
 - React (jsx jest **dla mnie** naprawdę... ughhh...)
 
@@ -40,13 +42,15 @@ Rozwijany: 2018 - teraz
 
 BOOMfinity to bot, którego jestem programistą (+ jednym z "głównych" właścicieli). Posiada wiele komend z różnych kategorii, autorski panel, automoderatora itd.
 
+Aktualnie trwają prace nad wersją 2, która zostanie przepisana na nową bazę danych i nowy język programowania.
+
 [Strona](https://boomfinity.xyz/) | [Discord](https://boomfinity.xyz/server)
 
 ##### 2. DList.top
 
 Rozwijany: 2019 - teraz
 
-Lista serwerów i botów (Discord), a w przyszłości też innych rzeczy. Aktualnie pracujemy nad nową wersją, do której link będzie poniżej.
+Lista serwerów i botów (Discord).
 
 [Strona](https://dlist.top/) | [Discord](https://discord.gg/22t94nN)
 
@@ -72,22 +76,22 @@ Osoby, z którymi współpracuję od długiego czasu
 
 [Unx](https://github.com/unxcepted) - .unx#6007
 
-[MrBoombastic](https://github.com/MrBoombastic) - MrBoombastic#2137
+[MrBoombastic](https://github.com/MrBoombastic) - MrBoombastic#6610
 
 ## ..., nie mam pomysłu na tytuł :(
 #### Ta sekcja zawiera moje osobiste zdanie na różne tematy. Czytasz na własną odpowiedzialność.
 
-- Gdzie jest _Bug_, a no ni ma?
+- Gdzie jest _Bug_? Ktoś go widział? Ja nie :(
 - Arch Linux + KDE = ❤️
-- Większego gówna niż Ubuntu nie widziałem
+- Nienawidzę distro, które bazują na APT
+- Uwielbiam i ufam firmie Google, a Microsoft po prostu lubię :)
+- Tak, lubię używać linuxa na co dzień - wiem, to okropne.
 - Cała firma "🍏" to syf
 - Pamiętajcie: \*\*\*\*\* \*\*\*
 - ❤ factorio i wszystkie tego typu gry | 💢 fortnite i cały inny syf (poza wyjątkami)
 - Ogólnie, wszystko od JetBrains jest najlepsze
 - Discord jest jednocześnie najlepszą i najgorszą platformą, jaką kiedykolwiek widziałem (dla developerów jest chujowy, a support to największe gówno jakie widziałem)
-- Support Discorda musi sobie kupić większy pakiet słówek / szablonów bo ewidentnie im się kończą
-- Jebać TeamSpeaka. Jedyne co jest na nim dobre to system uprawnień, którego na dc mi brakuje.
-- Python **dla mnie** nie istnieje (jak również nic pythonopodobnego). Osobiście wolę "tradycyjne" języki programowania.
+- Python **dla mnie** nie istnieje (jak również cokolwiek pythonopodobnego). Osobiście wolę "tradycyjne" języki programowania.
 - GO to cudowny język
 - Rust jest trudny, ale zajebisty (kiedyś się go naucze). Mógłby zastąpić c/c++ (czego szczerze mu życzę)
 - JavaScript jest jednocześnie zajebisty i zjebany. Każdy kto w nim pisał zrozumie, a jak nie.... to ma coś nie tak z głową.
