@@ -1,38 +1,31 @@
-[![Email](https://badgen.net/badge/Email/venompcpl%40gmail.com/orange)]()
-[![Discord](https://badgen.net/badge/Discord/VenomPCPL%239797/orange)]()
+[![Email](https://badgen.net/badge/Email/venompcpl%40gmail.com/red)]()
+[![Discord](https://badgen.net/badge/Discord/venompcpl/blue)]()
 
 # O mnie
 
-Hej! Nazywam się Patryk i mam _tylko_ 18 lat. Moje zainteresowania to: Komputery i programowanie (kto by się spodziewał). Niedawno zacząłem się również interesować elektroniką / elektryką / energetyką ;)
+Hej! Nazywam się Patryk i jestem z rocznika 2004. Uwielbiam programowanie, elektronikę, elektrykę, automatyzacje i jazdę samochodem ;)
 
-Jestem osobą, która lubi pracować w grupie. Sporo przeklinam. Ciągle chciałbym uczyć się nowych rzeczy, nie lubię stać w miejscu. Jestem beznadziejny z anglika :/ (przynajmniej na ten moment, ale jest coraz lepiej!)
+Aktualnie zajmuję się programowaniem jedynie hobbystycznie, ale na pewno nie zamierzam z tego rezygnować.
 
-Jeśli chciałbyś się ze mną skontaktować to w tej chwili jedyna szybka droga to Discord: VenomPCPL#9797.
+Jeśli chciałbyś się ze mną skontaktować możesz napisać do mnie na Discordzie (**venompcpl**) lub na mój adres email (**venompcpl@gmail.com**).
 
 # Umiejętności
 Jeśli chodzi o wybór między backendem a frontendem to jednak wolę raczej backend, ale w froncie też coś potrafię zrobić i cały czas się uczę :D
 
-Oczywiście technologie wypisane poniżej nie są jedynymi, którymi się interesuję. Cały czas staram się testować coś nowego, co mnie zaciekawi.
-
-Może teraz trochę o mnie i językach programowania / technologiach / itp. które znam (no i nie da się ukryć, że lubię):
+Może teraz trochę o językach programowania i technologiach które znam (no i nie da się ukryć, że lubię):
 - JavaScript / TypeScript
-- [GO](https://go.dev/)
+- [Go](https://go.dev/)
 - RethinkDB
-- Flutter
+- Flutter (aktualnie odchodzę od niego odkąd poznałem Jetpack i Compose w Androidzie)
 - VueJS
 - HTML, CSS (Wypisałem tak dla zasady :v)
 - [NATS](https://nats.io/)
 - SvelteJS
 - PostgreSQL
 
-Wszystko z listy znam w większym lub mniejszym stopniu. Nie chcę oceniać moich umiejętności, bo kim jestem, by to robić :v
+Wszystko z listy znam w większym lub mniejszym stopniu. Nie czuje się odpowiednią osobą, aby oceniać / chwalić się swoimi umiejętnościami. Mogę jedynie powiedzieć, że **JavaScript (i TypeScript)** jak i **Go** znam na bardzo wysokim poziomie ponieważ spędziłem z tymi językami najwięcej czasu.
 
-Teraz trochę o technologiach za którymi niezbyt przepadam (z różnych względów):
-- MySQL
-- MongoDB
-- React (jsx jest **dla mnie** naprawdę... ughhh...)
-
-Listy nie są pełne, pisałem to, co mi wpadło do głowy. Będą one na bieżąco aktualizowane.
+Lista oczywiście nie zawiera wszystkiego. Testowałem wiele technologii jak i często sprawdzam coś nowego (czasem mogę też po prostu zapomnieć ją zaktualizować), ale postaram się, aby była w miarę aktualna.
 
 # Projekty
 
@@ -40,9 +33,7 @@ Listy nie są pełne, pisałem to, co mi wpadło do głowy. Będą one na bież�
 
 Rozwijany: 2018 - teraz
 
-BOOMfinity to bot, którego jestem programistą (+ jednym z "głównych" właścicieli). Posiada wiele komend z różnych kategorii, autorski panel, automoderatora itd.
-
-Aktualnie trwają prace nad wersją 2, która zostanie przepisana na nową bazę danych i nowy język programowania.
+BOOMfinity to bot, którego jestem współwłascicielem. Posiada wiele rozwiniętych i przydatnych funkcji. Jest napisany w JavaScript (trwają pracę nad wersją w Go z własną [biblioteką](https://github.com/BOOMfinity/bfcord))
 
 [Strona](https://boomfinity.xyz/) | [Discord](https://boomfinity.xyz/server)
 
@@ -63,50 +54,16 @@ CLI pozwalające tworzyć oraz wgrywać kopie zapasowe bazy [RethinkDB](https://
 [Repozytorium](https://github.com/BOOMfinity-Developers/GoThink)
 
 # Organizacje
-##### 1. [BOOMfinity Developers](https://github.com/BOOMfinity-Developers)
+##### [BOOMfinity Developers](https://github.com/BOOMfinity-Developers)
 
 Organizacja w której wraz z ekipą wrzucamy np. forki bibliotek lub własne (jeśli takie będą heh). Przechowujemy tam również mniej lub bardziej powiązane z ekipą projekty prywatne (różne testy itp).
 
-##### 2. [DList.top (DBLista)](https://github.com/DBLista)
-
-_idk co tu dać_ Tworzymy listę która była w projektach :P
-
 # Ekipa
-Osoby, z którymi współpracuję od długiego czasu
+Osoby z którymi współpracuję już dość długo :)
 
 [Unx](https://github.com/unxcepted) - .unx#6007
 
 [MrBoombastic](https://github.com/MrBoombastic) - MrBoombastic#6610
 
-## ..., nie mam pomysłu na tytuł :(
-#### Ta sekcja zawiera moje osobiste zdanie na różne tematy. Czytasz na własną odpowiedzialność.
-
-- Gdzie jest _Bug_? Ktoś go widział? Ja nie :(
-- Arch Linux + KDE = ❤️
-- Nienawidzę distro, które bazują na APT
-- Uwielbiam i ufam firmie Google, a Microsoft po prostu lubię :)
-- Tak, lubię używać linuxa na co dzień - wiem, to okropne.
-- Cała firma "🍏" to syf
-- Pamiętajcie: \*\*\*\*\* \*\*\*
-- ❤ factorio i wszystkie tego typu gry | 💢 fortnite i cały inny syf (poza wyjątkami)
-- Ogólnie, wszystko od JetBrains jest najlepsze
-- Discord jest jednocześnie najlepszą i najgorszą platformą, jaką kiedykolwiek widziałem (dla developerów jest chujowy, a support to największe gówno jakie widziałem)
-- Python **dla mnie** nie istnieje (jak również cokolwiek pythonopodobnego). Osobiście wolę "tradycyjne" języki programowania.
-- GO to cudowny język
-- Rust jest trudny, ale zajebisty (kiedyś się go naucze). Mógłby zastąpić c/c++ (czego szczerze mu życzę)
-- JavaScript jest jednocześnie zajebisty i zjebany. Każdy kto w nim pisał zrozumie, a jak nie.... to ma coś nie tak z głową.
-- W C, C++ i innych pojebanych językach piszą tylko pojebani ludzie
-- ChromeOS jest spoko
-- I jeszcze raz: \*\*\*\*\* \*\*\*
-- Putin ty szmato
-- [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
-- [![Russian Warship Go Fuck Yourself](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/RussianWarship.svg)](https://stand-with-ukraine.pp.ua)
-
-_jeśli coś mi się przypomni lub będzie coś nowego to dopiszę_
-
-_Współczuję wszystkim, którzy to czytali_
-
 ![Github Statistics](https://github-readme-stats.vercel.app/api?username=VenomPCPL)
 ![Language Statistics](https://github-readme-stats.vercel.app/api/top-langs/?username=VenomPCPL)
-
-_Uprzedzając pytania: Tak, statystyki są dodane dla jaj bo aktualnie nie mają co wyświetlać realnego :V_
